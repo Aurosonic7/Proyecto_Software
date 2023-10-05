@@ -1,6 +1,6 @@
 # Proyecto_Software
 
-<p align=center><img src="https://i.gifer.com/origin/78/7821a8c6532bb0dc7d6c4b75574289f0.gif" width="75%"></p>
+<p align=center><img src="https://www.obsbusiness.school/sites/obsbusiness.school/files/images/metodologias-de-desarrollo-de-software.gif" width="75%"></p>
       <h1 align=center>Proyecto de ingenieria de software II</h1>
 <br>
 
